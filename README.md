@@ -1,5 +1,7 @@
 # Raytonx-blog
 
+[中文说明](./README-zh.md)
+
 This is a multilingual blog system built with **Next.js**, integrated with **Contentlayer**, **next-contentlayer2**, and **Next-intl**. It can be embedded into any other Next.js website.
 
 ## Quick Start
