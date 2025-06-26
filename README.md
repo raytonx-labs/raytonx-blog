@@ -29,3 +29,7 @@ Open [http://localhost:3000/blog](http://localhost:3000/blog) with your browser 
 
 3. **Multilingual Support**  
    Language configurations are located in the `src/i18n` directory, with translation content loaded as objects (e.g., `zh.ts`, `en.ts`). Recommended reading: [Why We Use getI18n with Object Structures Instead of JSON Files in next-intl](https://www.raytonx.com/en/blog/next-intl-geti18n-vs-json)
+
+## Examples
+
+### [Raytonx Labs](https://raytonx.com/en/blog)

@@ -27,3 +27,7 @@ pnpm build
 
 3. **多语言支持**  
    多语言配置位于 `src/i18n` 目录，翻译内容通过对象加载（如 `zh.ts`、`en.ts`）。推荐阅读：[为什么在 next-intl 中使用 getI18n 加载对象而不是 JSON 文件](https://www.raytonx.com/zh/blog/next-intl-geti18n-vs-json)
+
+## 示例
+
+### [Raytonx Labs](https://raytonx.com/zh/blog)
